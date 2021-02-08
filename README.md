@@ -43,7 +43,7 @@ A curated set of papers along with code.
 
 * __Personalized Re-ranking for Recommendation__,(2018),_Changhua Pei, Yi Zhang, Yongfeng Zhang, Fei Sun, Xiao Lin, Hanxiao Sun, Jian Wu, Peng Jiang, Wenwu Ou .[[pdf]](https://arxiv.org/abs/1904.06813) [[code]]()
 
-### [强化学习]()
+### [Reinforcement Learning]()
 
 * __Top-K Off-Policy Correction for a REINFORCE Recommender System__,(2020),_Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed Chi_. [[pdf]]() [[code]]()
 
