@@ -1,6 +1,6 @@
-# Awesome Re-rank Recommendation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Rerank Recommendation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Re-rank Recommendation papers, code, books, blogs, videos, datasets and other resources. 
+A curated list of Rerank Recommendation papers, code,  blogs, datasets and other resources. 
 
 # [Table of Contents]()
 * [Papers and Code](#Papers-and-Code)
