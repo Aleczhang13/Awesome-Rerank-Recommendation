@@ -51,7 +51,7 @@ A curated set of papers along with code.
 
 * __Sequential Evaluation and Generation Framework for Combinatorial Recommender System__,(arxiv 2019),_Fan Wang, Xiaomin Fang, Lihang Liu, Yaxue Chen, Jiucheng Tao, Zhiming Peng, Cihang Jin, Hao Tian_.[[pdf]](https://arxiv.org/abs/1902.00245) [[code]]()
 
-* __Exact-K Recommendation via Maximal Clique Optimization__,(KDD 2019),_Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu_. [[pdf]](https://arxiv.org/abs/1905.07089) [[code]]()=
+* __Exact-K Recommendation via Maximal Clique Optimization__,(KDD 2019),_Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu_. [[pdf]](https://arxiv.org/abs/1905.07089) [[code]]()
 
 * __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019), _E. Ie, Vihan Jain, Jing Wang, S. Narvekar, R. Agarwal, R. Wu, Heng-Tze Cheng, T. Chandra, Craig Boutilier_, [[pdf]](https://www.ijcai.org/Proceedings/2019/0360.pdf) [[code]]()
 
