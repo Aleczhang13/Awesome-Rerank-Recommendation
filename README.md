@@ -45,7 +45,7 @@ A curated set of papers along with code.
 
 ### [Reinforcement Learning]()
 
-* __Top-K Off-Policy Correction for a REINFORCE Recommender System__,(WSDM 2020),_Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed Chi_. [[pdf]](https://arxiv.org/abs/1812.02353) [[code]]()
+* __Top-K Off-Policy Correction for a REINFORCE Recommender System__,(WSDM 2019),_Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed Chi_. [[pdf]](https://arxiv.org/abs/1812.02353) [[code]]()
 
 * __Generator and Critic: A Deep Reinforcement Learning Approach for Slate Re-ranking in E-commerce__,(arxiv 2020),_Jianxiong Wei, Anxiang Zeng, Yueqiu Wu, Peng Guo, Qingsong Hua, Qingpeng Cai_.[[pdf]](https://arxiv.org/abs/2005.12206) [[code]]()
 
@@ -61,6 +61,13 @@ A curated set of papers along with code.
 ### [Edge computing]()
 
 * __EdgeRec: Recommender System on Edge in Mobile Taobao__,(CIKM2020),_Yu Gong, Ziwen Jiang, Yufei Feng, Binbin Hu, Kaiqi Zhao, Qingwen Liu, Wenwu Ou_，[[pdf]](https://arxiv.org/abs/2005.08416) [[code]]()
+
+## [Blogs]()
+
+* [EdgeRec：​揭秘边缘计算在淘宝推荐系统的重要实践](https://developer.aliyun.com/article/742144)
+* [EdgeRec - 揭秘边缘计算在淘宝猜你喜欢的大规模应用](https://zhuanlan.zhihu.com/p/166012060)
+* [阿里强化学习重排实践](https://mp.weixin.qq.com/s/ylavFA_MXLUhIBLCqxAjLQ)
+* [序列检索系统在淘宝首页信息流重排中的实践](https://mp.weixin.qq.com/s/mYLFqBEM79hn9YSFGjVu3w)
 
 ## Contributions
 
