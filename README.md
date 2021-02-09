@@ -61,7 +61,7 @@ A curated set of papers along with code.
 
 ### [Edge computing]()
 
-*__EdgeRec: Recommender System on Edge in Mobile Taobao__,(CIKM2020),_Yu Gong, Ziwen Jiang, Yufei Feng, Binbin Hu, Kaiqi Zhao, Qingwen Liu, Wenwu Ou_，[[pdf]](https://arxiv.org/abs/2005.08416) [[code]]()
+* __EdgeRec: Recommender System on Edge in Mobile Taobao__,(CIKM2020),_Yu Gong, Ziwen Jiang, Yufei Feng, Binbin Hu, Kaiqi Zhao, Qingwen Liu, Wenwu Ou_，[[pdf]](https://arxiv.org/abs/2005.08416) [[code]]()
 
 ## Contributions
 
