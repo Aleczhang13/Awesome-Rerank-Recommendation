@@ -56,7 +56,7 @@ A curated set of papers along with code.
 
 * __Deep Reinforcement Learning for Page-wise Recommendations__,(arxiv 2018),_Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang_.[[pdf]](https://arxiv.org/abs/1805.02343) [[code]]()
 
-* __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019), _E. Ie, Vihan Jain, Jing Wang, S. Narvekar, R. Agarwal, R. Wu, Heng-Tze Cheng, T. Chandra, Craig Boutilier_, [[pdf]](https://www.ijcai.org/Proceedings/2019/0360.pdf)
+* __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019), _E. Ie, Vihan Jain, Jing Wang, S. Narvekar, R. Agarwal, R. Wu, Heng-Tze Cheng, T. Chandra, Craig Boutilier_, [[pdf]](https://www.ijcai.org/Proceedings/2019/0360.pdf) [[code]]()
 
 
 ### [Edge computing]()
