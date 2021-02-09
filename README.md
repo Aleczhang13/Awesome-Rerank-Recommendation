@@ -14,7 +14,7 @@ A curated set of papers along with code.
 
 * __Learning to Rank using Gradient Descent__, (2005), _Chris Burges，Tal Shaked，Erin Renshaw，Ari Lazier_. [[pdf]](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf) [[code]](https://github.com/eggie5/RankNet)
 
-* __Learning to Rank: From Pairwise Approach to Listwise Approach__, (2005), _Zhe Cao，Tao Qin，Tie-Yan Liu_. [[pdf]]() [[code]]()
+* __Learning to Rank: From Pairwise Approach to Listwise Approach__, (2005), _Zhe Cao，Tao Qin，Tie-Yan Liu_. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2007-40.pdf) [[code]]()
 
 * __Learning to Rank with Nonsmooth Cost Functions__, (2006), _Christopher J, Burges, Robert Ragno, Quoc V. Le_. [[pdf]](http://papers.nips.cc/paper/2971-learning-to-rank-with-nonsmooth-cost-functions) [[code]]() 
 
@@ -56,9 +56,12 @@ A curated set of papers along with code.
 
 * __Deep Reinforcement Learning for Page-wise Recommendations__,(arxiv 2018),_Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang_.[[pdf]](https://arxiv.org/abs/1805.02343) [[code]]()
 
-* __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019) _E. Ie, Vihan Jain, Jing Wang, S. Narvekar, R. Agarwal, R. Wu, Heng-Tze Cheng, T. Chandra, Craig Boutilier_, [[pdf]](https://www.ijcai.org/Proceedings/2019/0360.pdf)
+* __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019), _E. Ie, Vihan Jain, Jing Wang, S. Narvekar, R. Agarwal, R. Wu, Heng-Tze Cheng, T. Chandra, Craig Boutilier_, [[pdf]](https://www.ijcai.org/Proceedings/2019/0360.pdf)
 
 
+### [Edge computing]()
+
+*__EdgeRec: Recommender System on Edge in Mobile Taobao__,(CIKM2020),_Yu Gong, Ziwen Jiang, Yufei Feng, Binbin Hu, Kaiqi Zhao, Qingwen Liu, Wenwu Ou_，[[pdf]](https://arxiv.org/abs/2005.08416) [[code]]()
 
 ## Contributions
 
