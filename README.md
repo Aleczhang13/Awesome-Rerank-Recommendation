@@ -16,9 +16,9 @@ A curated set of papers along with code.
 
 * __Learning to Rank: From Pairwise Approach to Listwise Approach__, (2005), _Zhe Cao，Tao Qin，Tie-Yan Liu_. [[pdf]]() [[code]]()
 
-* __Learning to Rank with Nonsmooth Cost Functions__, (2006), _Christopher J. Burges. Robert Ragno. Quoc V. Le_. [[pdf]](http://papers.nips.cc/paper/2971-learning-to-rank-with-nonsmooth-cost-functions) [[code]]() 
+* __Learning to Rank with Nonsmooth Cost Functions__, (2006), _Christopher J, Burges, Robert Ragno, Quoc V. Le_. [[pdf]](http://papers.nips.cc/paper/2971-learning-to-rank-with-nonsmooth-cost-functions) [[code]]() 
 
-* __SoftRank: Optimising Non-Smooth Rank Metrics__, (2008), _Mike Taylor John Guiver Stephen Robertson Tom Minka_. [[pdf]](https://www.microsoft.com/en-us/research/publication/softrank-optimising-non-smooth-rank-metrics/) [[code]]()
+* __SoftRank: Optimising Non-Smooth Rank Metrics__, (2008), _M. Taylor, J. Guiver, S. Robertson, Tom Minka_. [[pdf]](https://www.microsoft.com/en-us/research/publication/softrank-optimising-non-smooth-rank-metrics/) [[code]]()
 
 * __List wise Approach to Learning to Rank - Theory and Algorithm__，(2008), _Fen Xia，Tie-Yan Liu，Jue Wang, Wensheng Zhang, Hang Li_. [[pdf]](https://dl.acm.org/doi/10.1145/1390156.1390306) [[code]]()
 
@@ -28,6 +28,7 @@ A curated set of papers along with code.
 * __Unbiased Learning-to-Rank with Biased Feedback__,(2016), _Thorsten Joachims, Adith Swaminathan, Tobias Schnabel_. [[pdf]](https://arxiv.org/abs/1608.04468) [[code]]()
 
 * __A General Framework for Counterfactual Learning-to-Rank__, (2019), _Aman Agarwal, Kenta Takatsu, Ivan Zaitsev, Thorsten Joachims_. [[pdf]](https://arxiv.org/abs/1805.00065) [[code]]()
+
 
 ### [Slate optimization]()
 
@@ -43,19 +44,19 @@ A curated set of papers along with code.
 
 * __Personalized Re-ranking for Recommendation__,(2018),_Changhua Pei, Yi Zhang, Yongfeng Zhang, Fei Sun, Xiao Lin, Hanxiao Sun, Jian Wu, Peng Jiang, Wenwu Ou .[[pdf]](https://arxiv.org/abs/1904.06813) [[code]]()
 
-### [强化学习]()
+### [Reinforcement Learning]()
 
-* __Top-K Off-Policy Correction for a REINFORCE Recommender System__,(2020),_Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed Chi_. [[pdf]]() [[code]]()
+* __Top-K Off-Policy Correction for a REINFORCE Recommender System__,(2020),_Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed Chi_. [[pdf]](https://arxiv.org/abs/1812.02353) [[code]]()
 
-* __Generator and Critic: A Deep Reinforcement Learning Approach for Slate Re-ranking in E-commerce__,(arxiv 2020),_Jianxiong Wei, Anxiang Zeng, Yueqiu Wu, Peng Guo, Qingsong Hua, Qingpeng Cai_.[[pdf]]() [[code]]()
+* __Generator and Critic: A Deep Reinforcement Learning Approach for Slate Re-ranking in E-commerce__,(arxiv 2020),_Jianxiong Wei, Anxiang Zeng, Yueqiu Wu, Peng Guo, Qingsong Hua, Qingpeng Cai_.[[pdf]](https://arxiv.org/abs/2005.12206) [[code]]()
 
 * __Sequential Evaluation and Generation Framework for Combinatorial Recommender System__,(arxiv 2019),_Fan Wang, Xiaomin Fang, Lihang Liu, Yaxue Chen, Jiucheng Tao, Zhiming Peng, Cihang Jin, Hao Tian_.[[pdf]](https://arxiv.org/abs/1902.00245) [[code]]()
 
-* __Exact-K Recommendation via Maximal Clique Optimization__,(KDD 2019),_Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu_. [[pdf]]()[[code]]()
+* __Exact-K Recommendation via Maximal Clique Optimization__,(KDD 2019),_Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu_. [[pdf]](https://arxiv.org/abs/1905.07089) [[code]]()
 
-* __Deep Reinforcement Learning for Page-wise Recommendations__,(arxiv 2018),_Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang_.[[pdf]](https://arxiv.org/abs/1805.02343)
+* __Deep Reinforcement Learning for Page-wise Recommendations__,(arxiv 2018),_Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang_.[[pdf]](https://arxiv.org/abs/1805.02343) [[code]]()
 
-* __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019) _Eugene Ie Vihan Jain Jing Wang Sanmit Narvekar Ritesh Agarwal Rui Wu Heng-Tze Cheng Tushar Chandra Craig Boutilier_, [[pdf]]()
+* __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019) _E. Ie, Vihan Jain, Jing Wang, S. Narvekar, R. Agarwal, R. Wu, Heng-Tze Cheng, T. Chandra, Craig Boutilier_, [[pdf]](https://www.ijcai.org/Proceedings/2019/0360.pdf)
 
 
 
