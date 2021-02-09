@@ -12,15 +12,15 @@ A curated set of papers along with code.
 
 ### [Point wise/ pair wise / list-wise LTR]()
 
-* __List wise Approach to Learning to Rank Theory and Algorithm__，(ICML 2008), _Fen Xia，Tie-Yan Liu，Jue Wang, Wensheng Zhang, Hang Li_. [[pdf]](https://dl.acm.org/doi/10.1145/1390156.1390306) [[code]]()
+* __List wise Approach to Learning to Rank Theory and Algorithm__，(ICML 2008), _Fen Xia, Tie-Yan Liu, Jue Wang, Wensheng Zhang, Hang Li_. [[pdf]](https://dl.acm.org/doi/10.1145/1390156.1390306) [[code]]()
 
 * __SoftRank: Optimising Non-Smooth Rank Metrics__, (WSDM 2008), _M. Taylor, J. Guiver, S. Robertson, Tom Minka_. [[pdf]](https://www.microsoft.com/en-us/research/publication/softrank-optimising-non-smooth-rank-metrics/) [[code]]()
 
 * __Learning to Rank with Nonsmooth Cost Functions__, (NIPS 2006), _Christopher J, Burges, Robert Ragno, Quoc V. Le_. [[pdf]](http://papers.nips.cc/paper/2971-learning-to-rank-with-nonsmooth-cost-functions) [[code]]() 
   
-* __Learning to Rank using Gradient Descent__, (ICML 2005), _Chris Burges，Tal Shaked，Erin Renshaw，Ari Lazier_. [[pdf]](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf) [[code]](https://github.com/eggie5/RankNet)
+* __Learning to Rank using Gradient Descent__, (ICML 2005), _Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier_. [[pdf]](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf) [[code]](https://github.com/eggie5/RankNet)
 
-* __Learning to Rank: From Pairwise Approach to Listwise Approach__, (ICML 2005), _Zhe Cao，Tao Qin，Tie-Yan Liu_. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2007-40.pdf) [[code]]()
+* __Learning to Rank: From Pairwise Approach to Listwise Approach__, (ICML 2005), _Zhe Cao, Tao Qin, Tie-Yan Liu_. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2007-40.pdf) [[code]]()
 
 
 ### [Unbias LTR]()
