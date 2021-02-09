@@ -22,7 +22,6 @@ A curated set of papers along with code.
 
 * __Learning to Rank: From Pairwise Approach to Listwise Approach__, (ICML 2005), _Zhe Cao, Tao Qin, Tie-Yan Liu_. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2007-40.pdf) [[code]]()
 
-
 ### [Unbias LTR]()
 
 * __A General Framework for Counterfactual Learning-to-Rank__, (SIGIR  2019), _Aman Agarwal, Kenta Takatsu, Ivan Zaitsev, Thorsten Joachims_. [[pdf]](https://arxiv.org/abs/1805.00065) [[code]]()
@@ -56,7 +55,6 @@ A curated set of papers along with code.
 * __SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets__,(IJCAI 2019), _E. Ie, Vihan Jain, Jing Wang, S. Narvekar, R. Agarwal, R. Wu, Heng-Tze Cheng, T. Chandra, Craig Boutilier_, [[pdf]](https://www.ijcai.org/Proceedings/2019/0360.pdf) [[code]]()
 
 * __Deep Reinforcement Learning for Page-wise Recommendations__,(arxiv 2018),_Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang_.[[pdf]](https://arxiv.org/abs/1805.02343) [[code]]()
-
 
 ### [Edge computing]()
 
